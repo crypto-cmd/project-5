@@ -1,0 +1,6 @@
+sentence_transformers
+qroq
+pinecone
+openai
+flask
+flask_cors

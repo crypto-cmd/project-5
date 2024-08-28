@@ -1,0 +1,64 @@
+{
+  "reviews": [
+    {
+      "professor": "Prof1",
+      "review": "Great professor, explains concepts clearly.",
+      "subject": "Math",
+      "stars": 5
+    },
+    {
+      "professor": "Prof2",
+      "review": "Engaging lectures and very helpful.",
+      "subject": "Physics",
+      "stars": 4
+    },
+    {
+      "professor": "Prof3",
+      "review": "Makes difficult topics easy to understand.",
+      "subject": "Chemistry",
+      "stars": 5
+    },
+    {
+      "professor": "Prof4",
+      "review": "Very knowledgeable and approachable.",
+      "subject": "Biology",
+      "stars": 4
+    },
+    {
+      "professor": "Prof5",
+      "review": "Provides great resources and support.",
+      "subject": "Computer Science",
+      "stars": 5
+    },
+    {
+      "professor": "Prof6",
+      "review": "Interesting lectures but tough exams.",
+      "subject": "History",
+      "stars": 3
+    },
+    {
+      "professor": "Prof7",
+      "review": "Very patient and thorough in explanations.",
+      "subject": "English",
+      "stars": 4
+    },
+    {
+      "professor": "Prof8",
+      "review": "Encourages critical thinking and discussion.",
+      "subject": "Philosophy",
+      "stars": 5
+    },
+    {
+      "professor": "Prof9",
+      "review": "Great sense of humor and engaging classes.",
+      "subject": "Economics",
+      "stars": 4
+    },
+    {
+      "professor": "Prof10",
+      "review": "Very organized and clear in teaching.",
+      "subject": "Sociology",
+      "stars": 5
+    }
+  ]
+}
