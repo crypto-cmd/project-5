@@ -1,62 +1,62 @@
 {
   "reviews": [
     {
-      "professor": "Prof1",
-      "review": "Great professor, explains concepts clearly.",
+      "professor": "Abigail Johnson",
+      "review": "Great professor, explains concepts clearly. However, the exams are very difficult.",
       "subject": "Math",
-      "stars": 5
-    },
-    {
-      "professor": "Prof2",
-      "review": "Engaging lectures and very helpful.",
-      "subject": "Physics",
       "stars": 4
     },
     {
-      "professor": "Prof3",
-      "review": "Makes difficult topics easy to understand.",
+      "professor": "Benjamin Lee",
+      "review": "Engaging lectures and always willing to help outside of class.",
+      "subject": "Physics",
+      "stars": 5
+    },
+    {
+      "professor": "Catherine Smith",
+      "review": "Makes chemistry fun and easy to understand. Labs are well-organized.",
       "subject": "Chemistry",
       "stars": 5
     },
     {
-      "professor": "Prof4",
-      "review": "Very knowledgeable and approachable.",
+      "professor": "David Brown",
+      "review": "Very knowledgeable but sometimes hard to follow.",
       "subject": "Biology",
+      "stars": 3
+    },
+    {
+      "professor": "Emily Davis",
+      "review": "Provides excellent resources and support. Projects are challenging but rewarding.",
+      "subject": "Computer Science",
       "stars": 4
     },
     {
-      "professor": "Prof5",
-      "review": "Provides great resources and support.",
-      "subject": "Computer Science",
-      "stars": 5
-    },
-    {
-      "professor": "Prof6",
-      "review": "Interesting lectures but tough exams.",
+      "professor": "Frank Wilson",
+      "review": "Interesting lectures but the grading is tough.",
       "subject": "History",
       "stars": 3
     },
     {
-      "professor": "Prof7",
-      "review": "Very patient and thorough in explanations.",
+      "professor": "Grace Martinez",
+      "review": "Very patient and thorough in explanations. Great for non-native speakers.",
       "subject": "English",
       "stars": 4
     },
     {
-      "professor": "Prof8",
-      "review": "Encourages critical thinking and discussion.",
+      "professor": "Henry Clark",
+      "review": "Encourages critical thinking and lively discussions. A bit strict on deadlines.",
       "subject": "Philosophy",
-      "stars": 5
-    },
-    {
-      "professor": "Prof9",
-      "review": "Great sense of humor and engaging classes.",
-      "subject": "Economics",
       "stars": 4
     },
     {
-      "professor": "Prof10",
-      "review": "Very organized and clear in teaching.",
+      "professor": "Isabella Lewis",
+      "review": "Great sense of humor and makes economics relatable.",
+      "subject": "Economics",
+      "stars": 5
+    },
+    {
+      "professor": "James Walker",
+      "review": "Very organized and clear in teaching. Assignments are practical and useful.",
       "subject": "Sociology",
       "stars": 5
     }

@@ -21,16 +21,15 @@ def main(query):
 
     
     index = pc.Index('rag')
-    
     query_results = index.query(
     namespace="ns1",
-    vector=embed(query),
+    vector=embed(query).tolist(),
     top_k=3,
-    include_values=True
+    include_values=False,
+    include_metadata=True
     )
-    print(query_results)
-    # newQuery = f"Here are the top 3 professors that are related to my query: ```{results}```. Hence respond to my query as accurate as possible: {query}"
-    response = infer(query)
+    newQuery = f"Here are the top 3 professors that are related to my query: ```{query_results}```. Hence respond to my query as accurate as possible: {query}"
+    response = infer(newQuery)
     return response
 
 
@@ -40,9 +39,10 @@ def main(query):
 @app.route(rule="/ask", methods=["POST"])
 @cross_origin()
 def handle_request():
-    query =request.args.get('query')
-    main(query)
-    return  res
+    query = request.args.get('query')
+    res = main(query)
+    return res
+    
     
 
 # Running the API
